@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521043191592",
+    "project_id": "supabase-56b6d",
+    "storage_bucket": "supabase-56b6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521043191592:android:3fb91e77eb7c676d1a921d",
+        "android_client_info": {
+          "package_name": "com.example.i_click_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwkhegslVNiriJrUlzxnXnmtA3BvL795k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
